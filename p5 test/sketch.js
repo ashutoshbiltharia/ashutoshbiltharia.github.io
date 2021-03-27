@@ -3,6 +3,5 @@ function setup() {
   }
   
   function draw() {
-    background(random(220));
-    
+    background(245);
   }
